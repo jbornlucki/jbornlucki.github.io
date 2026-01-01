@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NovaStore | Official Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">NovaStore</div>
+  <a href="#products" class="nav-btn">Shop</a>
+</header>
+
+<section class="hero">
+  <h1>Smart Finds. Great Prices.</h1>
+  <p>Trending products people love — shipped worldwide.</p>
+</section>
+
+<section id="products" class="products">
+  <div class="product-card">
+    <img src="https://ae01.alicdn.com/kf/Sf0bfa5d5c4c94d93b5d7a30e0b47c6a9U.jpg" alt="Product">
+    <h3>Mini Handy Tool</h3>
+    <p class="price">$9.99</p>
+    <a href="https://www.aliexpress.us/item/3256806049748588.html" target="_blank" class="buy-btn">
+      Buy Now
+    </a>
+  </div>
+
+  <!-- ADD MORE PRODUCTS BELOW -->
+  <!--
+  <div class="product-card">
+    <img src="IMAGE_URL_HERE">
+    <h3>Product Name</h3>
+    <p class="price">$19.99</p>
+    <a href="PRODUCT_LINK" target="_blank" class="buy-btn">Buy Now</a>
+  </div>
+  -->
+</section>
+
+<section class="trust">
+  <h2>Why Shop With Us?</h2>
+  <div class="trust-grid">
+    <div>🔒 Secure Checkout</div>
+    <div>🚚 Worldwide Shipping</div>
+    <div>⭐ Quality Products</div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 NovaStore. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
